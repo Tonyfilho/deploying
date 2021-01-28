@@ -1,0 +1,8 @@
++ @angular-devkit/architect@0.1101.1
+added 10 packages from 45 contributors and audited 1256 packages in 29.549s
+
+15 packages are looking for funding
+  run `npm fund` for details
+
+found 56 vulnerabilities (21 low, 11 moderate, 23 high, 1 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
